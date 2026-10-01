@@ -1,0 +1,6 @@
+{
+  "name": "Clarity - AI Student Doubt Solver & Simple Concept Explainer",
+  "description": "Interactive AI study assistant that answers homework doubts and breaks down difficult academic concepts with crystal-clear simple explanations, real-world analogies, visual models, and interactive micro-quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
